@@ -1,0 +1,35 @@
+.castSection {
+    margin-top: 2rem;
+}
+
+.castList {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+    padding: 0;
+    list-style: none;
+}
+
+.castItem {
+    text-align: center;
+}
+
+.actorImage {
+    width: 120px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.15);
+}
+
+.actorName {
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+}
+
+.character {
+    font-size: 14px;
+    color: #555;
+}

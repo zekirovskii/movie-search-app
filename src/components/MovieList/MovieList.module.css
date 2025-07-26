@@ -1,0 +1,15 @@
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 2rem;
+}
+
+.link {
+    text-decoration: none;
+    color: #0033cc;
+    font-size: 17px;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
