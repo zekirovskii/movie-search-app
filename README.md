@@ -1,4 +1,4 @@
-# 🎬 Movie Search App (GoIT React HW-05)
+# 🎬 Movie Search App 
 
 A movie search application built with **React**, **Vite**, **React Router**, and **TMDB API**.  
 The app allows users to explore trending movies, search by keyword, and view detailed information including cast and reviews.  
