@@ -6,7 +6,7 @@ The app allows users to explore trending movies, search by keyword, and view det
 ---
 ## 📸 Preview
 
-![Movie Search App Screenshot](./public/phonebook.png)
+![Movie Search App Screenshot](./public/moviesearch.png)
 
 ---
 
